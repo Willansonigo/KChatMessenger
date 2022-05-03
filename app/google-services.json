@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993003828209",
+    "project_id": "kchatmessenger-fe995",
+    "storage_bucket": "kchatmessenger-fe995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993003828209:android:ca6a80919c8a93f52c4a50",
+        "android_client_info": {
+          "package_name": "br.disciplina.kchatmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993003828209-ia55v7cic2d5c92552ai9k1jpjjkhe3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjuA2sAJ1LVIfShgvXZiyseH3W3sw5u4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993003828209-ia55v7cic2d5c92552ai9k1jpjjkhe3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
